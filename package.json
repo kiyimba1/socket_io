@@ -17,6 +17,8 @@
   },
   "homepage": "https://github.com/kiyimba1/socket_io#readme",
   "dependencies": {
-    "express": "^4.17.1"
+    "ejs": "^2.7.1",
+    "express": "^4.17.1",
+    "socket.io": "^2.3.0"
   }
 }
